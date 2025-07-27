@@ -1,7 +1,8 @@
 <div align="center">
 
+<h1> I am currently looking for 2 types of help with these projects. Contributers/Maintainers, and financial supporters. If you want to help with any of them join the <a href="https://discord.gg/ajsbasement">Discord</a> and let me know</h1>
 
-<h2>Most of My Stuff is Powered by Digital Ocaean, so  if you click this link and create an account, when you spend $25 I get some help with my bill too :)</h2>
+<h4>Most of My Stuff is Powered by Digital Ocaean, so  if you click this link and create an account, when you spend $25 I get some help with my bill too :)</h4>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=ff2ff3528450&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
