@@ -1,3 +1,7 @@
+[AWFixerOS]: https://awfixeros.site
+[Modded Android]: https://modded-android.dev
+[AWBrowse]: https://browse.awfixer.com
+
 # AWFixer and Friends
 
 **One quality open-source project at a time.**
@@ -37,22 +41,23 @@ Ready to join the revolution? We'd love to have you. Whether you're a seasoned d
 
 Here are some of the projects we're using to take on the world.
 
--   **[Project Name 1]**: A brief, one-sentence description of the project and the giant it's challenging. (e.g., "An open-source alternative to Adobe Photoshop built for speed and accessibility.")
--   **[Project Name 2]**: A brief, one-sentence description of the project.
--   **[Project Name 3]**: A brief, one-sentence description of the project.
+-   **[AWFixerOS]**: 
+-   **[Modded Android]**: 
+-   **[AWBrowse]**: 
 
 We're just getting started. **Come build the future with us.**
 
 <div align="center">
 
-
+<!--
 <h3>Visit our <a href="https://discord.gg/ajsbasement">Careers Site</a> to check out if you can help out</h3>
+-->
 
-[![widget](https://inv.wtf/widget/deadinside)](https://inv.wtf/deadinside)
+[![widget](https://inv.wtf/widget/awfixerandfriends)](https://inv.wtf/awfixerandfriends)
 
 ## AWFixer and Friends CTA:
 
-This Project is necessary since toxic elements within Linux-based projects, moles from BigTech, are boycotting any substantial work, in order to destroy the "projects", to eliminate competition of their own products. Classic "embrace, extend, extinguish" tactics.
+This Project is necessary since toxic elements within OSS projects, moles from BigTech, are boycotting any substantial work, in order to destroy the "projects", to eliminate competition of their own products. Classic "embrace, extend, extinguish" tactics.
 
 This is an independent project, not at all affiliated with BigTech or any of their subsidiaries or tax evasion tools, nor any political activists groups, state actors, etc. It's explicitly free of any "DEI" or similar discriminatory policies. Anybody who's treating others nicely is welcomed.
 
@@ -66,7 +71,7 @@ Together we'll make FOSS great again!
 
 <div align="center">
 
-<h4>Most of our Stuff is Currently Powered by Digital Ocaean, so  if you click this link and create an account, when you spend $25 I get some help with my bill too :)</h4>
+<h4>Most of our Stuff is Currently Powered by Digital Ocaean, so  if you click this link and create an account, when you spend $25 we get some help with our bill too :)</h4>
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=ff2ff3528450&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
