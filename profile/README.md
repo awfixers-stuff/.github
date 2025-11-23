@@ -1,6 +1,7 @@
 [AWFixerOS]: https://awfixeros.site
 [Modded Android]: https://modded-android.dev
 [AWBrowse]: https://browse.awfixer.com
+[AW&Friends]: https://awfixer.com
 
 <div align="center">
 
@@ -8,7 +9,9 @@
 
 **One quality open-source project at a time.**
 
-[![widget](https://inv.wtf/widget/awfixerandfriends)](https://discord.awfixer.com)
+this org has a selection of public projects and a larger selection of private projects. I will open source some of them as time goes on. Right now they are being used in a way that makes keeping them private the way to go.
+
+since this is my personal org, you can join my friend group discord server via the button above. We talk, donars get benefits and we have pretty lax rules. If you use these projects in production or have questions about AWFixer and Friends stuff, you will need to visit the [AW&Friends] website and start there.
 
 ## AWFixer and Friends CTA:
 
