@@ -5,7 +5,7 @@
 
 <div align="center">
 
-# AWFixer and Friends
+# AWFixer's Stuff
 
 **One quality open-source project at a time.**
 
