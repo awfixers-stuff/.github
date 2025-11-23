@@ -53,7 +53,7 @@ We're just getting started. **Come build the future with us.**
 <h3>Visit our <a href="https://discord.gg/ajsbasement">Careers Site</a> to check out if you can help out</h3>
 -->
 
-[![widget](https://inv.wtf/widget/awfixerandfriends)](https://inv.wtf/awfixerandfriends)
+[![widget](https://inv.wtf/widget/awfixerandfriends)](https://discord.awfixer.com)
 
 ## AWFixer and Friends CTA:
 
